@@ -35,7 +35,7 @@ const Header = () => {
             <div className="header__inner">
                 <div className="header__logo">
                     <h1>
-                        <a href="/">Portfolio<em>react.js</em></a>
+                        <a href="/">Portfolio<em>이예리</em></a>
                     </h1>
                 </div>
                 <nav 
